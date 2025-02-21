@@ -2,7 +2,8 @@
 
 A Telegram-based AI chatbot that lets users interact with customizable characters using multiple AI models (Groq and KoboldAI). Features character card uploads, session management, and real-time streaming responses.
 
-![Demo](https://via.placeholder.com/800x400.png?text=Chatbot+Demo+Preview) *Replace with actual demo gif*
+![Demo](altkriz/AIMage-Character-Chat/img/img1.png) 
+![Demo](altkriz/AIMage-Character-Chat/img/img2.png) 
 
 ## Features ✨
 
