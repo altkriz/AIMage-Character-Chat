@@ -31,6 +31,14 @@ A Telegram-based AI chatbot that lets users interact with customizable character
 - Groq API Key
 - Openai API Key 
 - (Optional) KoboldAI API Access
+- 
+## **Disclaimer** ⚠️
+This project is intended for educational/research purposes. Developers are responsible for:/n
+Proper API key management
+Ethical AI usage guidelines
+Compliance with all applicable laws
+Appropriate content filtering
+  
 
 ## Installation 🚀
 
@@ -40,10 +48,6 @@ git clone https://github.com/altkriz/AIMage-Character-Chat.git
 cd AIMage-Character-Chat
 
 ```
-2. ##**Disclaimer** ⚠️
-This project is intended for educational/research purposes. Developers are responsible for:/n
-/nProper API key management
-/nEthical AI usage guidelines
-/nCompliance with all applicable laws
-/nAppropriate content filtering
+
+
 
