@@ -57,3 +57,21 @@ cd AIMage-Character-Chat
 -create a folder named cards and inside it another one named custom 
 -create another folder named users in root
 
+**API Support** 🌐
+- Feature	Groq API	KoboldAI
+- Model Switching	✅	✅
+- Streaming	❌	✅
+- Custom Memory	✅	✅
+- Response Speed	Fast	Variable
+- Contributing 🤝
+- Fork the repository
+
+- Create feature branch (git checkout -b feature/amazing-feature)
+
+- Commit changes (git commit -m 'Add amazing feature')
+
+- Push to branch (git push origin feature/amazing-feature)
+
+- Open Pull Request
+
+
