@@ -52,5 +52,8 @@ cd AIMage-Character-Chat
 
 ```
 
+# **Also Create Two aditional folders in the root**
 
+-create a folder named cards and inside it another one named custom 
+-create another folder named users in root
 
