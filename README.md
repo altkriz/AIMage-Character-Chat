@@ -39,10 +39,11 @@ A Telegram-based AI chatbot that lets users interact with customizable character
 git clone https://github.com/altkriz/AIMage-Character-Chat.git
 cd AIMage-Character-Chat
 
-
-##**Disclaimer** ⚠️
+```
+2. ##**Disclaimer** ⚠️
 This project is intended for educational/research purposes. Developers are responsible for:
 Proper API key management
 Ethical AI usage guidelines
 Compliance with all applicable laws
 Appropriate content filtering
+
