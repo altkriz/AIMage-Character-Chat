@@ -9,6 +9,8 @@ A Telegram-based AI chatbot that lets users interact with customizable character
 - **Multi-AI Model Support**
   - Groq API (Llama 3, Mixtral, etc.)
   - KoboldAI with streaming responses
+  - Free Kobold Api Given Choose kobold in model to run
+  - Change kobold base url to use your own kobold api
 - **Character Management**
   - Pre-built & custom character cards
   - PNG character card support
